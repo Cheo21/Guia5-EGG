@@ -9,7 +9,7 @@ public class Ejercicio2 {
         
         System.out.println("Ingrese su nombre: ");
         String nombre = input.next();
-        
+        input.close();
         System.out.println(nombre);
         
     }

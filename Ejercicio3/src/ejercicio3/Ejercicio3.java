@@ -8,7 +8,7 @@ public class Ejercicio3 {
      Scanner input = new Scanner(System.in);
      
      String frase = input.next();
-     
+     input.close();
         System.out.println(frase.toLowerCase());
         System.out.println(frase.toUpperCase());
      

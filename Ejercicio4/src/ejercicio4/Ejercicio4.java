@@ -9,7 +9,7 @@ public class Ejercicio4 {
         
         System.out.println("Ingrese grados centigrados: ");
         int gradosC = input.nextInt();
-        
+        input.close();
         System.out.println("Grados Fahrenheit: "+ (32+(9*gradosC/5)));
 
 
