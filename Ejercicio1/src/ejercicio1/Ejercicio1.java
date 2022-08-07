@@ -12,8 +12,9 @@ public class Ejercicio1 {
         
         num1 = sc.nextInt();
         num2 = sc.nextInt();
-        
+        sc.close();
         System.out.println(num1 + num2);
+        
     }
     
 }
