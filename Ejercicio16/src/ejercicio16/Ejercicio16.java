@@ -24,7 +24,7 @@ public class Ejercicio16 {
                 System.out.println(i);}
         }
         
-        
+        input.close();
     }
     
 }

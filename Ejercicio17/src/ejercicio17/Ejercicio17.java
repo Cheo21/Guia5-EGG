@@ -32,6 +32,7 @@ public class Ejercicio17 {
         for (int i = 0; i < 5; i++) {
             System.out.println(contador[i]);
         }
+    input.close();
     }
 
 }

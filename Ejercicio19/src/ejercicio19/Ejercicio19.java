@@ -15,7 +15,7 @@ public class Ejercicio19 {
              }
             }
          
-        
+        input.close();
          for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 System.out.print(vector[i][j]+ " ");

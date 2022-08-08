@@ -11,6 +11,7 @@ public class Ejercicio15 {
             vector[i] = input.nextInt();
         }
         
+     input.close();
         
     }
     
