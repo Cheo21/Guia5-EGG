@@ -18,7 +18,7 @@ public class Ejercicio14 {
         System.out.println("Se cambio " + monto +" "+ divisa + " a ->"+ cambiar(monto, divisa) + " EURO");}
         
         input.close();
-        
+          
     }
     
     public static double cambiar(double monto, String divisa){
